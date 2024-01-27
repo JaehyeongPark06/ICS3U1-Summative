@@ -3,7 +3,7 @@
 // Date: June 6, 2023 --> June 15, 2023
 /**
  * This file contains the functions for the game
- */
+ **/
 #include "game.h"
 #include <algorithm>
 #include <ctime>
